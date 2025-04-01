@@ -1,6 +1,6 @@
 # Sistema de Feedback
 
-Este projeto é um sistema de feedback desenvolvido com HTML, CSS, JavaScript e PHP. Ele permite que usuários enviem feedbacks e que administradores gerenciem essas informações por meio de um painel administrativo.
+Este projeto é um sistema de feedback desenvolvido com HTML, CSS, JavaScript e PHP. Ele foi criado para responder a um projeto de arranchamento militar, permitindo que usuários enviem feedbacks e que administradores gerenciem essas informações por meio de um painel administrativo.
 
 ## Estrutura do Projeto
 
@@ -49,5 +49,3 @@ A estrutura de diretórios e arquivos do projeto é a seguinte:
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar o projeto.
-
-
